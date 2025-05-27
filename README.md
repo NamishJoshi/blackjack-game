@@ -39,7 +39,7 @@ This program offers a quick and engaging text-based blackjack experience. It's d
 
 Run the program using:
 
-python njoshi3_blackjack.py
+`python njoshi3_blackjack.py`
 
 All necessary modules and classes are included—no third-party dependencies required.
 
